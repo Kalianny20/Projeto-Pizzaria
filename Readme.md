@@ -1,6 +1,6 @@
 <img src="/img/PizzaShop.png">
 
-# PizzaShop | Kalianny Ferreira
+# PizzaShop 
 
 Bem-vindo ao PizzaShop, um site fictício de uma pizzaria. Este projeto apresenta uma interface simples e responsiva para exibir o cardápio da pizzaria, informações sobre a empresa e como entrar em contato.
 
@@ -41,5 +41,5 @@ O PizzaShop é um site desenvolvido para uma pizzaria fictícia, apresentando su
 
 ## Autor
 
-- **Kalianny Ferreira** - Desenvolvedor do site - [GitHub](https://github.com/Kalianny20)
+- **Kalianny** - [GitHub](https://github.com/Kalianny20)
 
